@@ -1,0 +1,1 @@
+# Follow along of *Neural Networks from Scratch* book
